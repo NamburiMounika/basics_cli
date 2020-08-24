@@ -1,2 +1,2 @@
 # basics_cli
-I want to learn using source code management git and github
+I want to learn source code management using git and github
